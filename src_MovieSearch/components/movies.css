@@ -1,0 +1,25 @@
+
+.navBlock .navbar {
+    height: 85px;
+}
+.noPad {padding: 0;}
+.navBlock .navbar a.navbar-brand {
+    color: white;
+}
+.iconImdb {
+    position: absolute;
+    right: 22px;
+    color: #ffc107!important
+}
+.display-4 {
+    font-size: 3rem;
+}
+.spinnerImg {
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+.movieCard h5.card-title{
+  color: #ffffff;
+  font-size: 16px;
+}
